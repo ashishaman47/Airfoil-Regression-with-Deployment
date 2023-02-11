@@ -8,4 +8,3 @@ Werkzeug
 scipy
 scikit-learn
 matplotlib
-pickle
